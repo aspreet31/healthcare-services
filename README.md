@@ -14,12 +14,30 @@ This project is a comprehensive web application for managing healthcare services
 - **useEffect**: To manage side effects, such as data fetching and updating the UI based on state changes.
 - **useState**: For managing local component state, ensuring the application is responsive and dynamic.
 - **context api**: For solving prop drilling problem.
-
+- 
+### Prerequisites
+Make sure you have the following installed on your machine:
+- [Node.js](https://nodejs.org/) (version 14 or higher)
+- [npm](https://www.npmjs.com/) (comes bundled with Node.js)
+- 
 ### Installation
-To get started with the project, clone the repository and run:
+## Getting Started
 
-```terminal of vs code
-npm install
-npm run dev
-Then go to localhost [  Local:   http://localhost:5173/]
+To get started with the project, follow these steps:
+### If not having zip file
+1. **Clone the Repository**  
+   Open your terminal in VS Code and run the following command:
+   git clone <repository-url> //https://github.com/aspreet31/healthcare-services.git
+   cd healthcare-services
+   
+ ### if having then unzip and open folder healthcare-services-main
+3.  **Install Dependencies**
+   Once inside the project directory, install the necessary dependencies by running:
+   npm install
+
+   After the installation is complete, start the development server with:
+   npm run dev
+**Access the Application**
+   Open your web browser and go to http://localhost:5173/ to view the application.
+
 
