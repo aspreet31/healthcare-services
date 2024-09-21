@@ -18,8 +18,8 @@ This project is a comprehensive web application for managing healthcare services
 ### Installation
 To get started with the project, clone the repository and run:
 
-```bash
+```terminal of vs code
 npm install
 npm run dev
-
+Then go to localhost [  Local:   http://localhost:5173/]
 
