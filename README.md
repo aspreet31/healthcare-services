@@ -13,6 +13,7 @@ This project is a comprehensive web application for managing healthcare services
 - **React**: For building the user interface and handling state management.
 - **useEffect**: To manage side effects, such as data fetching and updating the UI based on state changes.
 - **useState**: For managing local component state, ensuring the application is responsive and dynamic.
+- **context api**: For solving prop drilling problem.
 
 ### Installation
 To get started with the project, clone the repository and run:
