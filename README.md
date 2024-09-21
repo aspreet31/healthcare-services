@@ -30,12 +30,12 @@ To get started with the project, follow these steps:
    git clone <repository-url> //https://github.com/aspreet31/healthcare-services.git
    cd healthcare-services
    
- ### if having then unzip and open folder healthcare-services-main
-3.  **Install Dependencies**
+ ### if having then unzip then open folder healthcare-services-main
+2.  **Install Dependencies** - in vs terminal
    Once inside the project directory, install the necessary dependencies by running:
    npm install
 
-   After the installation is complete, start the development server with:
+3.   After the installation is complete, start the development server with:
    npm run dev
 **Access the Application**
    Open your web browser and go to http://localhost:5173/ to view the application.
